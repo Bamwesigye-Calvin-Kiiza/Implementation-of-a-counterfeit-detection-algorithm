@@ -1,10 +1,10 @@
 My mission here for the french organization <i>ONCFM (National Anti-Counterfeiting Organization)</i> is to set up an algorithm that will automatically identify counterfeit euro banknotes based on their dimensions and elements that compose them.<br>
 <br>
  
-<strong>SUMMARY</strong> :
+<u><i><strong>SUMMARY</strong></i></u> :
 
     
- <strong>Tools </strong>[(here)](#another_cell_0)
+ <strong>Tools </strong>
  
   <strong>I. Exploratory data analysis</strong><br>
      -- A. Dataset description<br>
@@ -23,12 +23,15 @@ My mission here for the french organization <i>ONCFM (National Anti-Counterfeiti
      ---- <i>b. Explained Variance Ratio and Scree plot</i><br>
      ---- <i>c. Correlation circles and projections of points</i><br>
      -- D. Univariate analysis on target<br>
+     <br>
   <strong>II. K-means clustering</strong><br>
      -- A. Finding the optimal number of clusters for classification (Elbow method)</i><br>
      -- B. K-means model<br> 
      -- C. Factorial plane<br>
      -- D. Centroid analysis<br>
+     <br>
   <strong>III. Logistic regression</strong><br>
+  <br>
   <strong>IV. Comparison of the two models and implementation of the function</strong><br>
 
 
