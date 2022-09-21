@@ -1,7 +1,7 @@
 My mission here for the french organization <i>ONCFM (National Anti-Counterfeiting Organization)</i> is to set up an algorithm that will automatically identify counterfeit euro banknotes based on their dimensions and elements that compose them.<br>
 <br>
  
-<u><i><strong>SUMMARY</strong></i></u> :
+<strong>Summary</strong> :
 
     
  <strong>Tools </strong>
