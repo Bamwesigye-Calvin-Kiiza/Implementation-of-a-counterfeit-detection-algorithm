@@ -1,3 +1,10 @@
+My mission for the french organization <i>ONCFM (National Anti-Counterfeiting Organization)</i> is to set up an algorithm that will automatically identify counterfeit euro banknotes based on their dimensions and elements that compose them.<br>
+<br>
+<u>Two methods of prediction</u> are in competition here : 
+- a classic <strong>logistic regression</strong> ;
+- a <strong>k-means</strong> (of which the centroids will be used to perform the prediction).
+<br>
+
 <strong>Summary</strong> :
 
     
@@ -21,14 +28,22 @@
      ---- c. Correlation circles and projections of points</i><br>
      -- D. Univariate analysis on target<br>
      <br>
-  <strong>II. K-means clustering</strong><br>
-     -- A. Finding the optimal number of clusters for classification (Elbow method)</i><br>
+ <strong>II. K-means clustering</strong><br>
+     -- A. Finding the optimal number of clusters for classification (Elbow method)<br>
      -- B. K-means model<br> 
      -- C. Factorial plane<br>
      -- D. Centroid analysis<br>
+     -- E. Model evaluation<br>
      <br>
   <strong>III. Logistic regression</strong><br>
+     -- A. Implementation<br>
+     -- B. Tests<br> 
+     -- C. Model evaluation<br>
+     ---- <i>a. Confusion matrix<br>
+     ---- b. Measurement of classification quality (ROC curve)</i><br>
   <br>
   <strong>IV. Comparison of the two models and implementation of the function</strong><br>
+     -- A. ...<br>
+     -- B. ...<br>
 
 
