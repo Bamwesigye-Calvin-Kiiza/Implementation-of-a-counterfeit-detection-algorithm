@@ -40,10 +40,14 @@ My mission for the french organization <i>ONCFM (National Anti-Counterfeiting Or
      -- B. Tests<br> 
      -- C. Model evaluation<br>
      ---- <i>a. Confusion matrix<br>
-     ---- b. Measurement of classification quality (ROC curve)</i><br>
+     ---- b. Measurement of classification quality (ROC curve)<br>
+          ---- c. Optimisation</i><br>
   <br>
-  <strong>IV. Comparison of the two models and implementation of the function</strong><br>
-     -- A. ...<br>
-     -- B. ...<br>
+  <strong>IV. Test function implementation</strong><br>
+     -- A. Sample preparation<br>
+     -- B. Test function implementation<br>
+     -- C. Test result<br>
+     <br>
+
 
 
